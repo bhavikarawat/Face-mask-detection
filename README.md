@@ -6,11 +6,10 @@ This project implements an AI-based face mask detection system using TensorFlow,
 
 ## 📂 Project Structure  
 │── maskData/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Dataset (With Mask & Without Mask)  
-│── mask_detection.ipynb &nbsp;&nbsp;&nbsp;&nbsp;            # Google Colab training notebook  
-│── app.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        # VS Code real-time mask detection script  
-│── mask_detection.tflite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       # Saved TFLite model  
-│── README.md &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # Project documentation  
-│── .gitignore &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # Ignore unnecessary files
+│── README.md &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # Project documentation   
+│── app.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        # VS Code real-time mask detection script 
+│── mask_detection.ipynb &nbsp;&nbsp;&nbsp;&nbsp;            # Google Colab training notebook   
+│── mask_detection.tflite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       # Saved TFLite model   
 
 ## 📥 Dataset
 The dataset consists of two categories:  
@@ -35,11 +34,11 @@ Python (Programming Language)
 
 ## 📊 Model Performance
 
-Training Accuracy: ~98%
+Training Accuracy: ~96%
 
-Validation Accuracy: ~95%
+Validation Accuracy: ~96%
 
-Test Accuracy: ~93%
+Test Accuracy: ~96.5%
 
 ## ⚠️ Known Issues
 
