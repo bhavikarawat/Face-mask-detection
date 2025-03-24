@@ -26,7 +26,7 @@ The model is trained using TensorFlow and Google Colab. It consists of multiple 
 3-The trained model is converted to a TFLite model for edge deployment.  
 Download the mask_detection.tflite model.  
 
-##🖥️ Technology Stack  
+## 🖥️ Technology Stack  
 Google Colab (Training)
 TensorFlow & TFLite (Model Development)
 OpenCV (Webcam Processing)
