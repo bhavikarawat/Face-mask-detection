@@ -24,7 +24,7 @@ The model is trained using TensorFlow and Google Colab. It consists of multiple 
 1-Run the mask_detection_training.ipynb notebook in Google Colab.  
 2-The model is trained with data augmentation, batch normalization, and dropout.  
 3-The trained model is converted to a TFLite model for edge deployment.  
-Download the mask_detection.tflite model.  
+4-Download the mask_detection.tflite model.  
 
 ## 🖥️ Technology Stack  
 Google Colab (Training)  
